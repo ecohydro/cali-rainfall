@@ -7,11 +7,11 @@ Setup
 ------------
 
 1. Open your terminal (fish if using windows).
-2. make create_environment
-3. source activate cali-rainfall
-4. make requirements
-5. cd notebooks
-6. jupyter notebook
+2. ```make create_environment```
+3. ```source activate cali-rainfall```
+4. ```make requirements```
+5. ```cd notebooks```
+6. ```jupyter notebook```
 
 Project Organization
 ------------
