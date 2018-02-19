@@ -13,6 +13,8 @@ Setup
 5. ```cd notebooks```
 6. ```jupyter notebook```
 
+We can work in notebooks until we feel like we need to use the rest of this data science project template.
+
 Project Organization
 ------------
 
